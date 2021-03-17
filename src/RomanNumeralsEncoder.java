@@ -346,6 +346,6 @@ public class RomanNumeralsEncoder {
     }
 
     public static void main(String[] args) {
-        System.out.println(solution(3888));
+        System.out.println(solution(9999));
     }
 }
