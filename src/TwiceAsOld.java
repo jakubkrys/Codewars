@@ -1,13 +1,11 @@
 public class TwiceAsOld {
 
     public static int TwiceAsOld(int dadYears, int sonYears){
-        int diff = (dadYears-(sonYears*2));
-        int TwiceAsOld = Math.abs(diff);
 
-        return TwiceAsOld;
+        return Math.abs(dadYears-(sonYears*2));
     }
 
     public static void main (String[] args){
-        System.out.println(TwiceAsOld.TwiceAsOld(30, 25));
+        System.out.println(TwiceAsOld.TwiceAsOld(70, 25));
     }
 }
