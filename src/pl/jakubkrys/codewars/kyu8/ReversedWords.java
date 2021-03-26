@@ -1,3 +1,5 @@
+package pl.jakubkrys.codewars.kyu8;
+
 public class ReversedWords {
 
     public static String reverseWords(String str) {

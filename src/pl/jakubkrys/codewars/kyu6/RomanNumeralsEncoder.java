@@ -1,3 +1,5 @@
+package pl.jakubkrys.codewars.kyu6;
+
 public class RomanNumeralsEncoder {
 
     public static String solution(int n) {

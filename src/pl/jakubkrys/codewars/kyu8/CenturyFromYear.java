@@ -1,3 +1,5 @@
+package pl.jakubkrys.codewars.kyu8;
+
 public class CenturyFromYear {
 
     public static int century(int number) {

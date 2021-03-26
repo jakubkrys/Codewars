@@ -1,3 +1,5 @@
+package pl.jakubkrys.codewars.kyu6;
+
 import java.util.Arrays;
 
 public class TwoSum {

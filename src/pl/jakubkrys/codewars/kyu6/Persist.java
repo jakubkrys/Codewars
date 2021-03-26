@@ -1,3 +1,5 @@
+package pl.jakubkrys.codewars.kyu6;
+
 public class Persist {
     public static int persistence(long n) {
         String m = Long.toString(n);

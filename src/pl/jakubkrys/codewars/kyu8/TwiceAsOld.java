@@ -1,3 +1,5 @@
+package pl.jakubkrys.codewars.kyu8;
+
 public class TwiceAsOld {
 
     public static int TwiceAsOld(int dadYears, int sonYears){

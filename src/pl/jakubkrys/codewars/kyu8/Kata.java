@@ -1,3 +1,5 @@
+package pl.jakubkrys.codewars.kyu8;
+
 import java.util.Arrays;
 
 public class Kata {

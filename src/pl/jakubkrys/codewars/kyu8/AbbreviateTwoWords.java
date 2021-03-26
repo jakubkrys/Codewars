@@ -1,3 +1,5 @@
+package pl.jakubkrys.codewars.kyu8;
+
 public class AbbreviateTwoWords {
     public static String abbrevName(String name) {
 
